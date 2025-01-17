@@ -31,10 +31,10 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "Health2020"
-#define WIFI_PASS         "Rexdale2020"
-#define APP_KEY           "a63f77c6-77ec-40cd-9ca3-84de33638e3d"
-#define APP_SECRET        "d4f82be1-7485-4e62-bab2-a9686d6be184-4ed0538e-e6a6-4852-8d77-8884d228f771"
+#define WIFI_SSID         ""
+#define WIFI_PASS         ""
+#define APP_KEY           "
+#define APP_SECRET        ""
 
 
 #define SWITCH_ID_1       "66b5491b54041e4ff619b5f5"
